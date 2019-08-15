@@ -10,4 +10,5 @@ public class student {
     private String address;
     private String gander;
     private String a;
+    private String se;
 }
